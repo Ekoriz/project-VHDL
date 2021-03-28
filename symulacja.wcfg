@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Maciek/Desktop/PWR 2017-18 ZIMA/0vlsi projekt/VHDL/SR_230196_DANICKIm/SR_230196_DANICKIm/test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_textio" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="test" />
+            <top_module name="textio" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/test/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/pelny" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">pelny</obj_property>
+      <obj_property name="ObjectShortName">pelny</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/koniec" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">koniec</obj_property>
+      <obj_property name="ObjectShortName">koniec</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/rodzpaliwa" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rodzpaliwa</obj_property>
+      <obj_property name="ObjectShortName">rodzpaliwa</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#a0a0a4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/cenapaliwadozapisu" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">cenapaliwadozapisu[7:0]</obj_property>
+      <obj_property name="ObjectShortName">cenapaliwadozapisu[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#808080</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/postep" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">postep</obj_property>
+      <obj_property name="ObjectShortName">postep</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff0000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/uut/stan" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">stan</obj_property>
+      <obj_property name="ObjectShortName">stan</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/ilosclitrow" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ilosclitrow[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ilosclitrow[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffa500</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/cenazapaliwoall" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">cenazapaliwoall[7:0]</obj_property>
+      <obj_property name="ObjectShortName">cenazapaliwoall[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffff00</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test/teraz" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">teraz</obj_property>
+      <obj_property name="ObjectShortName">teraz</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#00ffff</obj_property>
+   </wvobject>
+</wave_config>

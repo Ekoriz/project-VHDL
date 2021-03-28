@@ -1,0 +1,24 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Maciek/Desktop/PWR 2017-18 ZIMA/0vlsi projekt/VHDL/SR_230196_DANICKIm/SR_230196_DANICKIm/test_isim_beh.exe" -prj "C:/Users/Maciek/Desktop/PWR 2017-18 ZIMA/0vlsi projekt/VHDL/SR_230196_DANICKIm/SR_230196_DANICKIm/test_beh.prj" "work.test" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Maciek/Desktop/PWR 2017-18 ZIMA/0vlsi projekt/VHDL/SR_230196_DANICKIm/SR_230196_DANICKIm/uut.vhd" into library work
+Parsing VHDL file "C:/Users/Maciek/Desktop/PWR 2017-18 ZIMA/0vlsi projekt/VHDL/SR_230196_DANICKIm/SR_230196_DANICKIm/test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package textio
+Compiling package std_logic_textio
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package numeric_std
+Compiling architecture dystrybutora of entity dystrybutor [dystrybutor_default]
+Compiling architecture behavior of entity test
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+Compiled 10 VHDL Units
+Built simulation executable C:/Users/Maciek/Desktop/PWR 2017-18 ZIMA/0vlsi projekt/VHDL/SR_230196_DANICKIm/SR_230196_DANICKIm/test_isim_beh.exe
+Fuse Memory Usage: 37316 KB
+Fuse CPU Usage: 1029 ms
